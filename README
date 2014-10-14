@@ -1,0 +1,5 @@
+This program compresses or decompresses a given file.
+
+To compile: javac Comp.java
+To Compress: java Comp c filename
+To Decompress: java Comp d filename
